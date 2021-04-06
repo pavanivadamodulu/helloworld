@@ -19,7 +19,7 @@
  
   <form id="event-form">
      <div class='calander_popip_title'><i class="fa fa-calendar" aria-hidden="true"></i>
-Add Event</div>
+Add Events</div>
     <ul>
       <li>
         <label for="event-start"><i class="fa fa-bell-o" aria-hidden="true"></i>
