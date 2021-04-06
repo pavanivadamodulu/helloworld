@@ -19,7 +19,7 @@
  
   <form id="event-form">
      <div class='calander_popip_title'><i class="fa fa-calendar" aria-hidden="true"></i>
-Add Events by sai world Updated by pavani</div>
+Add Events by sai world Updated by pavani.</div>
     <ul>
       <li>
         <label for="event-start"><i class="fa fa-bell-o" aria-hidden="true"></i>
